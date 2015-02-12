@@ -13,11 +13,12 @@ $mq-breakpoints: (
 // Show active breakpoint in top right corner of viewport
 //$mq-show-breakpoints: (mobile, mobileLandscape, tablet, desktop, widescreen, tvscreen);
 
+@import "bootstrap-custom";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
 @import "base/markup-mixins";
 @import "base/_wp-reset";
 @import "mq";
 
-@import "bootstrap-custom";
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
 
