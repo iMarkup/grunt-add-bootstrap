@@ -37,8 +37,9 @@ $media-expressions: (
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
 
+@import "media";
 @import "base/markup-mixins";
 @import "base/_wp-reset";
-@import "media";
+
 
 
