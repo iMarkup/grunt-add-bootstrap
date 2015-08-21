@@ -4,55 +4,55 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-@import "vendor/bootstrap-custom"; // for customization bootstrap
+@import "bootstrap-custom"; // for customization bootstrap
 
 // Core variables and mixins
-@import "vendor/bootstrap/variables";
-@import "vendor/bootstrap/mixins";
+@import "vendors/bootstrap/variables";
+@import "vendors/bootstrap/mixins";
 
 // Reset and dependencies
-@import "vendor/bootstrap/normalize";
-@import "vendor/bootstrap/print";
-@import "vendor/bootstrap/glyphicons";
+@import "vendors/bootstrap/normalize";
+@import "vendors/bootstrap/print";
+@import "vendors/bootstrap/glyphicons";
 
 // Core CSS
-@import "vendor/bootstrap/scaffolding";
-@import "vendor/bootstrap/type";
-@import "vendor/bootstrap/code";
-@import "vendor/bootstrap/grid";
-@import "vendor/bootstrap/tables";
-@import "vendor/bootstrap/forms";
-@import "vendor/bootstrap/buttons";
+@import "vendors/bootstrap/scaffolding";
+@import "vendors/bootstrap/type";
+@import "vendors/bootstrap/code";
+@import "vendors/bootstrap/grid";
+@import "vendors/bootstrap/tables";
+@import "vendors/bootstrap/forms";
+@import "vendors/bootstrap/buttons";
 
 // Components
-@import "vendor/bootstrap/component-animations";
-@import "vendor/bootstrap/dropdowns";
-@import "vendor/bootstrap/button-groups";
-@import "vendor/bootstrap/input-groups";
-@import "vendor/bootstrap/navs";
-@import "vendor/bootstrap/navbar";
-@import "vendor/bootstrap/breadcrumbs";
-@import "vendor/bootstrap/pagination";
-@import "vendor/bootstrap/pager";
-@import "vendor/bootstrap/labels";
-@import "vendor/bootstrap/badges";
-@import "vendor/bootstrap/jumbotron";
-@import "vendor/bootstrap/thumbnails";
-@import "vendor/bootstrap/alerts";
-@import "vendor/bootstrap/progress-bars";
-@import "vendor/bootstrap/media";
-@import "vendor/bootstrap/list-group";
-@import "vendor/bootstrap/panels";
-@import "vendor/bootstrap/responsive-embed";
-@import "vendor/bootstrap/wells";
-@import "vendor/bootstrap/close";
+@import "vendors/bootstrap/component-animations";
+@import "vendors/bootstrap/dropdowns";
+@import "vendors/bootstrap/button-groups";
+@import "vendors/bootstrap/input-groups";
+@import "vendors/bootstrap/navs";
+@import "vendors/bootstrap/navbar";
+@import "vendors/bootstrap/breadcrumbs";
+@import "vendors/bootstrap/pagination";
+@import "vendors/bootstrap/pager";
+@import "vendors/bootstrap/labels";
+@import "vendors/bootstrap/badges";
+@import "vendors/bootstrap/jumbotron";
+@import "vendors/bootstrap/thumbnails";
+@import "vendors/bootstrap/alerts";
+@import "vendors/bootstrap/progress-bars";
+@import "vendors/bootstrap/media";
+@import "vendors/bootstrap/list-group";
+@import "vendors/bootstrap/panels";
+@import "vendors/bootstrap/responsive-embed";
+@import "vendors/bootstrap/wells";
+@import "vendors/bootstrap/close";
 
 // Components w/ JavaScript
-@import "vendor/bootstrap/modals";
-@import "vendor/bootstrap/tooltip";
-@import "vendor/bootstrap/popovers";
-@import "vendor/bootstrap/carousel";
+@import "vendors/bootstrap/modals";
+@import "vendors/bootstrap/tooltip";
+@import "vendors/bootstrap/popovers";
+@import "vendors/bootstrap/carousel";
 
 // Utility classes
-@import "vendor/bootstrap/utilities";
-@import "vendor/bootstrap/responsive-utilities";
+@import "vendors/bootstrap/utilities";
+@import "vendors/bootstrap/responsive-utilities";

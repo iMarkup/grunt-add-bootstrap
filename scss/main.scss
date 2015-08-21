@@ -21,7 +21,7 @@ $media-expressions: (
 
 @import 'vendors/include-media';
 
-@import "vendors/bootstrap-custom";
+@import "bootstrap-custom";
 @import "vendors/bootstrap/variables";
 @import "vendors/bootstrap/mixins";
 
@@ -30,5 +30,5 @@ $media-expressions: (
 
 
 #wrapper {
-	background: #f00;
+	max-width: 1000px;
 }
